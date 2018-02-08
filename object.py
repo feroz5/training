@@ -1,8 +1,7 @@
-
-class abdevilliers:
-
-
-mr360=abdevilliers
-print(mr360)
+class kohli:
+	pass
+	
+mr360=kohli()
+print (mr360)
 
 
